@@ -1,0 +1,36 @@
+C:\Users\szyma\Desktop\Programowanie w Internecie\AnimalShelter\AnimalShelter.Common\bin\Debug\net7.0\Common.deps.json
+C:\Users\szyma\Desktop\Programowanie w Internecie\AnimalShelter\AnimalShelter.Common\bin\Debug\net7.0\Common.dll
+C:\Users\szyma\Desktop\Programowanie w Internecie\AnimalShelter\AnimalShelter.Common\bin\Debug\net7.0\Common.pdb
+C:\Users\szyma\Desktop\Programowanie w Internecie\AnimalShelter\AnimalShelter.Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+C:\Users\szyma\Desktop\Programowanie w Internecie\AnimalShelter\AnimalShelter.Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szyma\Desktop\Programowanie w Internecie\AnimalShelter\AnimalShelter.Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+C:\Users\szyma\Desktop\Programowanie w Internecie\AnimalShelter\AnimalShelter.Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+C:\Users\szyma\Desktop\Programowanie w Internecie\AnimalShelter\AnimalShelter.Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\szyma\Desktop\Programowanie w Internecie\AnimalShelter\AnimalShelter.Common\obj\Debug\net7.0\Common.dll
+C:\Users\szyma\Desktop\Programowanie w Internecie\AnimalShelter\AnimalShelter.Common\obj\Debug\net7.0\refint\Common.dll
+C:\Users\szyma\Desktop\Programowanie w Internecie\AnimalShelter\AnimalShelter.Common\obj\Debug\net7.0\Common.pdb
+C:\Users\szyma\Desktop\Programowanie w Internecie\AnimalShelter\AnimalShelter.Common\obj\Debug\net7.0\ref\Common.dll
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\FindItnow\Common\bin\Debug\net7.0\Common.deps.json
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\FindItnow\Common\bin\Debug\net7.0\Common.dll
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\FindItnow\Common\bin\Debug\net7.0\Common.pdb
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\FindItnow\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\FindItnow\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\FindItnow\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\FindItnow\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\FindItnow\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\FindItnow\Common\obj\Debug\net7.0\Common.dll
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\FindItnow\Common\obj\Debug\net7.0\refint\Common.dll
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\FindItnow\Common\obj\Debug\net7.0\Common.pdb
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\FindItnow\Common\obj\Debug\net7.0\ref\Common.dll
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\Common\bin\Debug\net7.0\Common.deps.json
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\Common\bin\Debug\net7.0\Common.dll
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\Common\bin\Debug\net7.0\Common.pdb
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\Common\obj\Debug\net7.0\Common.dll
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\Common\obj\Debug\net7.0\refint\Common.dll
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\Common\obj\Debug\net7.0\Common.pdb
+C:\Users\szyma\Desktop\ProjektZespołowy\FindITnow\Common\obj\Debug\net7.0\ref\Common.dll
